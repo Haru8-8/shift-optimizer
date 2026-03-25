@@ -1,0 +1,15 @@
+day,slot,required
+月,AM,2
+月,PM,1
+火,AM,1
+火,PM,2
+水,AM,2
+水,PM,1
+木,AM,1
+木,PM,1
+金,AM,1
+金,PM,2
+土,AM,1
+土,PM,1
+日,AM,1
+日,PM,1
